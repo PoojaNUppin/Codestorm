@@ -1,0 +1,51 @@
+product_name,review_text,rating
+Smartphone A,"Battery lasts all day, very satisfied",5
+Smartphone A,"Camera quality is excellent",5
+Smartphone A,"Phone heats up during heavy use",2
+Smartphone A,"Average performance for the price",3
+Smartphone A,"Terrible software crashes frequently",1
+Headphones B,"Sound quality is amazing, love it",5
+Headphones B,"Bass is too low, expected better",2
+Headphones B,"Comfortable and fits perfectly",4
+Headphones B,"Stopped working after a month",1
+Headphones B,"Decent headphones for casual use",3
+Laptop C,"Fast and smooth, perfect for work",5
+Laptop C,"Keyboard is uncomfortable",2
+Laptop C,"Battery life is excellent",5
+Laptop C,"Stopped working after 2 months, very disappointed",1
+Laptop C,"Average performance, okay for the price",3
+Smartwatch D,"Stylish and full of features",5
+Smartwatch D,"Battery drains too quickly",2
+Smartwatch D,"Works fine, but bulky design",3
+Smartwatch D,"Excellent fitness tracking",5
+Smartwatch D,"Average smartwatch, nothing special",3
+Tablet E,"Perfect for reading and streaming",5
+Tablet E,"Screen scratches easily",2
+Tablet E,"Good value for money",4
+Tablet E,"Stopped responding after a week",1
+Tablet E,"Performance is okay, nothing extra",3
+Bluetooth Speaker F,"Loud and clear sound",5
+Bluetooth Speaker F,"Bass is too weak",2
+Bluetooth Speaker F,"Works perfectly outdoors",5
+Bluetooth Speaker F,"Stopped working after 1 month",1
+Bluetooth Speaker F,"Average speaker, decent for price",3
+Fitness Band G,"Accurate tracking and comfortable",5
+Fitness Band G,"Small screen, hard to read",2
+Fitness Band G,"Does the job, nothing extra",3
+Fitness Band G,"Excellent for daily workouts",5
+Fitness Band G,"Stopped syncing after a week",1
+Camera H,"Takes amazing photos",5
+Camera H,"Bulky and hard to carry",2
+Camera H,"Average quality, expected better",3
+Camera H,"Great zoom and focus",5
+Camera H,"Stopped working after 1 month",1
+Earbuds I,"Sound is crisp and clear",5
+Earbuds I,"Left earbud stopped working",1
+Earbuds I,"Battery drains fast",3
+Earbuds I,"Comfortable and fits perfectly",4
+Earbuds I,"Good sound for casual use",3
+Laptop J,"Fast, lightweight, perfect for travel",5
+Laptop J,"Battery drains quickly",2
+Laptop J,"Average performance, okay for price",3
+Laptop J,"Stopped working after 2 months",1
+Laptop J,"Good value for money",4
